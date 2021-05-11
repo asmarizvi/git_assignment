@@ -1,2 +1,3 @@
  This is the second file for the reset.
+This is the second line for the file named def
 
