@@ -1,3 +1,4 @@
  this is the third file for the reset.
 This is the second line for the file named ghi.txt
+ This is the third line for ghi.txt
 
